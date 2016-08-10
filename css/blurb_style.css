@@ -1,0 +1,30 @@
+/*!
+* Do not modify this file directly. 
+* 
+*/
+
+ul.page_blurb{
+	list-style: none;
+}
+
+
+li.page_blurb_page_meta_title{
+	font-weight: bold;
+	margin-top: 30px;
+	padding-bottom: 12.5px;
+}
+
+li.page_blurb_page_meta_excerpt{
+	margin-bottom: 25px;
+}
+
+#page_blurb_image{
+margin-top: 12.5px;
+}
+
+#page_blurb_image  img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    vertical-align: top;
+	}
